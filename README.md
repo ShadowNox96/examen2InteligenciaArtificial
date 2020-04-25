@@ -3,7 +3,8 @@ Desarrollador: Carlos Emanuel de la Cruz Rosales
 
 # ¿Como correr el programa?
 
-Primero es necesario tener instalado Python3 y asegurarse que venga con Tkinter, asi como Prolog-
+Primero es necesario tener instalado Python3 y asegurarse que venga con Tkinter
+Tener instalado Prolog-
    
 - Como se sabe, una buena practica de programación en Python es trabajar todo en entornos virtuales, para ello es necesario:
    -Instalar virtualenviroments con :
