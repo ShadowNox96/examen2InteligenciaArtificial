@@ -22,7 +22,7 @@ Tener instalado Prolog-
   
     - pip install pyswip 
     
-  - Teniendo todo instalado vamos a correr el programa con la sentencia:
+  - Teniendo todo instalado vamos a correr el programa nos dirigimos a la carpeta Ejercicio 1 y  con la sentencia:
       - python3 index.py para linux
       - index.py para windows
    
