@@ -77,13 +77,15 @@ def consultaProlog(pregunta):
 
 # Diccionario de relaciones
 def relaciones(x):
-    rel = ['quieren', 'quienesquieren', 'quiere', 'mutuamente', 'quieren']
+    rel = [ 'quienesquieren', 'quiere', 'mutuamente', 'quieren']
     relUnica = ['hombre', 'mujer']
     
     #Busca si existe una relacion dentro del diccionario
     if x in rel:
         if x == 'quieren':
             x= 'quiere'
+            return x, 0
+        else:
             return x, 0
     else:
         if x in relUnica:
