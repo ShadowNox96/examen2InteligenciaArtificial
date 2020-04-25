@@ -1,7 +1,7 @@
     # examen2InteligenciaArtifical
 Desarrollador: Carlos Emanuel de la Cruz Rosales
 
-# Como correr el programa?
+# ¿Como correr el programa?
 
 Primero es necesario tener instalado Python3 y asegurarse que venga con Tkinter, asi como Prolog-
    
